@@ -1409,7 +1409,7 @@ async function showMainMenu(ctx, edit = false) {
     }
     
     const message = `
-🚀 *Welcome Maestro Sniper Bot* 🤖
+🚀 *Welcome fomo trading Bot* 🤖
 
 *I'm your Web3 execution engine*.
 ━━━━━━━━━━━━━━━━━━
@@ -1419,9 +1419,7 @@ async function showMainMenu(ctx, edit = false) {
 🧠 Detect traps, fake pumps, and incoming dumps before they hit
 ⚡ Operate at machine-speed — no lag, no emotion
 ━━━━━━━━━━━━━━━━━━
-${walletInfo}
-🏦 *CASH & STABLE COIN BANK*
-_Paste any Solana contract address to analyze_
+Paste any Solana contract address to analyze_
   `;
   
     const keyboard = Markup.inlineKeyboard([
